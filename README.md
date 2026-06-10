@@ -22,6 +22,16 @@
 
 This is not just a predictor — it's a complete fitness intelligence platform with 9 feature-rich pages.
 
+## 🌐 Live Demo
+
+🚀 Experience the application live:
+
+[![Launch App](https://img.shields.io/badge/🚀%20Launch-CalorieAI%20Pro-success?style=for-the-badge)](YOUR_STREAMLIT_APP_LINK)
+
+🔗 **Live URL:** YOUR_STREAMLIT_APP_LINK
+
+
+
 ---
 
 ## ✨ Features at a Glance
