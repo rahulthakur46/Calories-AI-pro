@@ -1,12 +1,18 @@
+
 # 🔥 CalorieAI Pro — Smart Fitness Intelligence Platform
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.46-FF4B4B?style=for-the-badge&logo=streamlit)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.6.1-F7931E?style=for-the-badge&logo=scikit-learn)
-![Plotly](https://img.shields.io/badge/Plotly-6.0-3F4F75?style=for-the-badge&logo=plotly)
-![Accuracy](https://img.shields.io/badge/Model%20Accuracy-99.83%25-success?style=for-the-badge)
+![Python](<img width="1920" height="1080" alt="Screenshot 2026-06-11 031035" src="https://github.com/user-attachments/assets/3cf4f0ee-6459-4cac-a07a-1fb56fbfc848" />
+https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Streamlit](![Uploading Screenshot 2026-06-11 031114.png…]()
+https://img.shields.io/badge/Streamlit-1.46-FF4B4B?style=for-the-badge&logo=streamlit)
+![Scikit-Learn](<img width="1920" height="1080" alt="Screenshot 2026-06-11 031146" src="https://github.com/user-attachments/assets/5657687b-89e5-4d49-a468-a61f9b385d6c" />
+https://img.shields.io/badge/scikit--learn-1.6.1-F7931E?style=for-the-badge&logo=scikit-learn)
+![Plotly](<img width="1920" height="1080" alt="Screenshot 2026-06-11 031220" src="https://github.com/user-attachments/assets/ce7eff66-941d-4cb0-9bc2-713f7535809f" />
+https://img.shields.io/badge/Plotly-6.0-3F4F75?style=for-the-badge&logo=plotly)
+![Accuracy](<img width="1920" height="1080" alt="Screenshot 2026-06-11 031256" src="https://github.com/user-attachments/assets/35b3a398-608a-4319-8c6f-6436d25bff74" />
+https://img.shields.io/badge/Model%20Accuracy-99.83%25-success?style=for-the-badge)
 
 **An AI-powered calorie burn prediction app built with Random Forest & Streamlit.**
 
@@ -26,7 +32,7 @@ This is not just a predictor — it's a complete fitness intelligence platform w
 
 🚀 Experience the application live:
 
-[![Launch App](https://img.shields.io/badge/🚀%20Launch-CalorieAI%20Pro-success?style=for-the-badge)](YOUR_STREAMLIT_APP_LINK)
+[![Launch App](https://img.shields.io/badge/🚀%20Launch-CalorieAI%20Pro-success?style=for-the-badge)](https://calories-ai-pro-gawmaakpc6ebfdtnkmdimz.streamlit.app/)
 
 🔗 **Live URL:** YOUR_STREAMLIT_APP_LINK
 
